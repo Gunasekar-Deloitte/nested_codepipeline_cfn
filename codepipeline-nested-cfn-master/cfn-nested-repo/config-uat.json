@@ -1,7 +1,7 @@
 {
   "Parameters" : {
     "TemplatePath": "TEMPLATE_PATH_PLACEHOLDER",
-    "VPCID": "nestedcfn-basestack-s3bucket-1b6lccc5tna8z",
+    "VPCID": "vpc-0f361b2dcd0ad7711",
     "PrivateSubnet1": "subnet-031aaa4419c2d55c4",
     "PrivateSubnet2": "subnet-0834b24dded7f54d4",
     "PublicSubnet1": "subnet-075fc4ad9f7c749bd",
